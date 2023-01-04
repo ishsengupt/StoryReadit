@@ -18,7 +18,7 @@
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "slate": "^0.58.1",
     "slate-history": "^0.58.1",
     "slate-react": "^0.58.2"
